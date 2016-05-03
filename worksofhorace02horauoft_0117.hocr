@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksofhorace02horauoft_0117.png"; bbox 0 0 1638 2924; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 961 2924">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 961 2924">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 961 2924; baseline 0 -1755"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 961 2924; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 403 1266 1205 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 385 1266 1205 1391">
+     <span class='ocr_line' id='line_1_2' title="bbox 403 1266 1205 1388; baseline -0.001 -18.022"><span class='ocrx_word' id='word_1_2' title='bbox 403 1273 568 1388; x_wconf 25' lang='lat' dir='ltr'>{T&#39;H</span> <span class='ocrx_word' id='word_1_3' title='bbox 591 1312 648 1370; x_wconf 85' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 730 1292 927 1370; x_wconf 57' lang='lat' dir='ltr'><strong>SJA‘T</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 949 1314 976 1369; x_wconf 94' lang='lat'>1</span> <span class='ocrx_word' id='word_1_6' title='bbox 1001 1266 1060 1369; x_wconf 56' lang='lat'>1}</span> <span class='ocrx_word' id='word_1_7' title='bbox 1079 1313 1134 1369; x_wconf 88' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1155 1313 1205 1378; x_wconf 81' lang='lat' dir='ltr'>s</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 677 1453 959 1509">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 677 1453 959 1509">
+     <span class='ocr_line' id='line_1_3' title="bbox 677 1453 959 1509; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 677 1453 872 1509; x_wconf 89' lang='lat' dir='ltr'>BOOK</span> <span class='ocrx_word' id='word_1_10' title='bbox 921 1464 959 1508; x_wconf 88' lang='lat'>1.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
